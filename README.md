@@ -3,6 +3,7 @@
 # Hollandse pannenkoeken
 
 ![Een stapel pannenkoeken met stroop]
+
 <img width="252" height="478" alt="recept" src="https://github.com/user-attachments/assets/59e28294-f6f5-426a-aa78-4fb31bae9524" />
 
 
